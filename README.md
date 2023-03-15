@@ -8,9 +8,10 @@
     This will password generator will help you generate a strong password based off of what letters characters and numbers you want all you have to do is click generate password button and answer the questions that the window pops up to see if you want certain objects in your password then itll generate one for you.
 
 
-![password-simulator](imgs/picture.png)
 
-![password-simulator](imgs/picture2.html.png)
+![password-simulator](Develop/assets/imgs/picture.png)
+
+![password-simulator](Develop/assets/imgs/picture2.html.png)
 
 ## Link
 
