@@ -9,9 +9,9 @@
 
 
 
-![password-simulator](Develop/assets/imgs/picture.png)
+![password-simulator](assets/imgs/picture.png)
 
-![password-simulator](Develop/assets/imgs/picture2.html.png)
+![password-simulator](assets/imgs/picture2.html.png)
 
 ## Link
 https://joelestrada16.github.io/password-simulator/
