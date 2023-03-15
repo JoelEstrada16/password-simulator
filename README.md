@@ -14,6 +14,7 @@
 ![password-simulator](Develop/assets/imgs/picture2.html.png)
 
 ## Link
+https://joelestrada16.github.io/password-simulator/
 
 ## License
 Please refer to license in the repo
